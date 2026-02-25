@@ -1,0 +1,13 @@
+*.csv
+*.mp4
+*.txt
+*.png
+*.jpg
+*.jpeg
+*.xml
+*.json
+*.pt
+*.pth
+*.gz
+*.zip
+*-ubyte
