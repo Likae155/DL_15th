@@ -11,3 +11,4 @@
 *.gz
 *.zip
 *-ubyte
+gpu_check.ipynb
